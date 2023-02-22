@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlatformService", "PlatformService\PlatformService.csproj", "{1DADFE4B-9673-46FA-9827-586F6E35937E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DADFE4B-9673-46FA-9827-586F6E35937E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DADFE4B-9673-46FA-9827-586F6E35937E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DADFE4B-9673-46FA-9827-586F6E35937E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DADFE4B-9673-46FA-9827-586F6E35937E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B92007-8274-424F-A32B-9A1DF63EE418}
+	EndGlobalSection
+EndGlobal
